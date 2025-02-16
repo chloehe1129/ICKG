@@ -145,8 +145,8 @@ associated,
 with,
 induction,
 of,
-monocytic,
-differentiation,
+monocytic,B-pathway
+differentiation,I-pathway
 and,
 egr-1,
 transcription,
@@ -14709,8 +14709,8 @@ cascade,
 .,
 so,
 called,
-costimulatory,
-signals,
+costimulatory,B-pathway
+signals,I-pathway
 ",",
 mediated,
 by,
@@ -14749,8 +14749,8 @@ also,
 required,
 both,
 tcr,
-and,
-costimulatory,
+and,B-pathway
+costimulatory,I-pathway
 signals,
 .,
 the,
